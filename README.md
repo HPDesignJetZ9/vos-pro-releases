@@ -9,7 +9,9 @@ de database staat alleen op dit apparaat (`%LOCALAPPDATA%\VosPro`). Het programm
 of er een nieuwe versie is (één klein bestand van deze pagina).
 
 # Features
-Vos Pro biedt een overzichtelijke omgeving voor het beheren van toetsen, invoeren van behaalde punten, berekenen van cijfers, toetsanalyses en vergelijkingen met andere klassen/schooljaren. Vos Pro draait in de browser vanaf een programma dat op de computer draait en slaat data lokaal op, met de mogelijkheid om data op te slaan in de door de school aangeboden cloud dienst.
+Vos Pro biedt een overzichtelijke omgeving voor het beheren van toetsen, invoeren van behaalde punten, berekenen van cijfers, toetsanalyses en vergelijkingen met andere klassen/schooljaren. Vos Pro draait in de browser vanaf een programma dat op de computer draait en slaat data lokaal op, met de mogelijkheid om data op te slaan in de door de school aangeboden cloud dienst. 
+
+**Voor de features is een artificiele dataset gebruikt ter illustratie.**
 
 ## Welkomscherm en overzicht
 <img width="1338" height="1260" alt="Dashboard" src="https://github.com/user-attachments/assets/50878fca-0ed0-4ec0-b98c-8133979ece2e" />
